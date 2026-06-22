@@ -28,6 +28,12 @@ structured results to Telegram.
 | 📊 Gap Analyser | Compares resume against JD and surfaces real skill gaps |
 | ✍️ Adviser | Drafts a tailored cover letter using actual company context |
 
+
+## How It Works
+
+![Joseph architecture](/joseph_job_agent_architecture.png)
+
+
 ## Architecture evolution
 
 **v1 — Python / Claude Code**  
