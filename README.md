@@ -51,7 +51,7 @@ activity, track evaluated roles, and visualise pipeline output in real time.
 
 ## Outcomes
 - 3–4 hrs/application → under 20 min/day
-- 300+ roles evaluated, scored, and logged with gap analysis
+- 2500+ roles evaluated, scored, and logged with gap analysis
 
 ---
 *Pipeline is private (personalised data). This repo documents the architecture.*
