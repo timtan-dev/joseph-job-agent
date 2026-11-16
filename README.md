@@ -50,7 +50,7 @@ activity, track evaluated roles, and visualise pipeline output in real time.
 - v2: Claude Cowork (Anthropic Agent SDK), HTML/JS live dashboard, JSON store
 
 ## Outcomes
-- 3–4 hrs/application → under 20 min/day
+- 3–4 hrs/application → under 1h/day
 - 2500+ roles evaluated, scored, and logged with gap analysis
 
 ---
